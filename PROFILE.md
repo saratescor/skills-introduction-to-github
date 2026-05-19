@@ -1,2 +1,1 @@
-**Welcome to my GitHub profile!** 
-_This is just for some sintax_
+Welcome to my GitHub profile!
